@@ -1,0 +1,1 @@
+- Coffehut_Wallet: A wallet for loyal customers to accumulate points
